@@ -8,7 +8,7 @@ export default () => {
                 <Col md={8} className="m-3">
                     <Row className="fg-pri">
                         <Col>
-                            <h1>some BIG text. bigger than h1. </h1>
+                            <h1 className="font-weight-bold">some BIG text. bigger than h1. </h1>
                         </Col>
                     </Row>
                     <Row className="fg-pri mt-3">
