@@ -4,8 +4,8 @@
 
 /* Colors {{{ */
 :root {
-    --bg-primary: #0a0a0b;
-    --bg-secondary: #1a1a1b;
+    --bg-primary: #111111;
+    --bg-secondary: #1b1b1b;
     --fg-primary: #eeeeee;
     --fg-secondary: #555555;
 }
