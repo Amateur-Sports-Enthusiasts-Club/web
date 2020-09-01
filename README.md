@@ -1,8 +1,9 @@
 setup instructions:
+```
 clone
 yarn install
 yarn start
-
+```
 some stuff to note:
 - use reactstrap wherever possible (check out the docs here https://reactstrap.github.io/components/alerts/)
 - use bootstrap classes if reactstrap hasn't got what you're looking for
